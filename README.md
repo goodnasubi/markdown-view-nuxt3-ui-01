@@ -93,3 +93,8 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 ## 参考にしたHP
 
     - [chat-with-pdf](https://github.com/RihanArfan/chat-with-pdf)
+
+## cloudflare
+
+    - [cloudflare](https://dash.cloudflare.com/31eab2293f88d3a6c519605ec967d7f9/home)
+    
