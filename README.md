@@ -89,3 +89,7 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
     code eslint.config.mjs
     
     ```
+
+## 参考にしたHP
+
+    - [chat-with-pdf](https://github.com/RihanArfan/chat-with-pdf)
