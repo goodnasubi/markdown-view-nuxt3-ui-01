@@ -85,5 +85,7 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
     ```bash
     npx nuxi@latest init -t ui .
     pnpm add -D eslint@latest @nuxt/eslint-config@latest
-
+    pnpm add -D eslint@latest @nuxt/eslint-config@latest
+    code eslint.config.mjs
+    
     ```
